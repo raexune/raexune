@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raexune aka Ramona.
 - 👀 I’m interested in video games, soccer and tech stuff.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning HTML, CSS, Javascript, Python, C, C++.
 
 <!---
 raexune/raexune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

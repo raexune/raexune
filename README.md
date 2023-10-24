@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @raexune aka Ramona.
-- 👀 I’m interested in video games, soccer and tech stuff.
 - 🌱 I’m currently learning HTML, CSS, Javascript.
 
 <!---

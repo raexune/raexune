@@ -7,7 +7,7 @@ Hi there! 👋 I'm raexune, an electrician passionate about web design & develop
 - 💼 Currently working as electrician at Wiener Wohnen Hausbetreuung.
 - 🌱 I’m currently learning Figma, Webflow, Javascript, React, Node.js;
 - 👯 I’m looking to collaborate on web applications.
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/ramona-fuchs)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ramona-fuchs/)
 
 ## 🔧 Technologies & Tools
 
@@ -19,7 +19,7 @@ Hi there! 👋 I'm raexune, an electrician passionate about web design & develop
 
 ## 🌐 Connect with Me
                     
-  [LinkedIn](linkedin.com/in/ramona-fuchs)
+  [LinkedIn](https://www.linkedin.com/in/ramona-fuchs/)
   [Portfolio](https://portfolio-a64586.webflow.io/)
     
 

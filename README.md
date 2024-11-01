@@ -20,7 +20,7 @@ Hi there! 👋 I'm raexune, passionate about web design & development.
                     
   [LinkedIn](https://www.linkedin.com/in/ramona-fuchs/)
   [Portfolio](https://portfolio-a64586.webflow.io/)
-  [CodeWars](https://www.codewars.com/users/raexune/badges/micro)
+  [CodeWars](https://www.codewars.com/users/raexune)
     
 
 ## 🤝 Let's Connect

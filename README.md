@@ -3,9 +3,10 @@
 Hi there! 👋 I'm raexune, passionate about web design & development.
 
 ## 🚀 Quick Intro
+  
+- 💻 I'm passionate about IoT, embedded systems, web development, and renewable energy.  
+- 📚 Currently learning and building cool projects with Arduino, ESP32 and Raspberry Pi.
 
-- 🌱 I’m currently learning Figma, Webflow, Javascript, React, C++.
-- 👯 I’m looking to collaborate on web applications or on Arduino Projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ramona-fuchs/)
 
 ## 🔧 Technologies & Tools

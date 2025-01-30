@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! 👋 I'm raexune, passionate about web design & development.
+Hi there! 👋 I'm raexune!
 
 ## 🚀 Quick Intro
   
